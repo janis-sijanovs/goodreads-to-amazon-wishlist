@@ -46,3 +46,6 @@ To use the script, navigate to the repository folder and run the script:
 
 ```bash
 python main.py
+```
+
+Keep in mind, you might have to manually enter OTP code from your phone on the first run
