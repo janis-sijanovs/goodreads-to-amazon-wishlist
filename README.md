@@ -7,7 +7,7 @@ This repository contains a Python script that automates the process of transferr
 Before you begin, ensure you have met the following requirements:
 
 * You have installed the latest version of Python
-* You have a Goodreads "to-read" list ID. You can find it in the address goodreads.com/review/list/ > 167212401 < ?ref=nav_mybooks
+* You have a Goodreads "to-read" list ID. You can find it in the address goodreads.com/review/list/ > **167212401** < ?ref=nav_mybooks
 * You have an Amazon account
 * You have your Amazon login credentials
 
@@ -48,4 +48,4 @@ To use the script, navigate to the repository folder and run the script:
 python main.py
 ```
 
-Keep in mind, you might have to manually enter OTP code from your phone on the first run
+**Keep in mind, you might have to manually enter OTP code from your phone on the first run**
