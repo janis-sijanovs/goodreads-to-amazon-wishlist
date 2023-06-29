@@ -1,0 +1,6 @@
+selenium
+selenium-stealth
+python-dotenv
+tqdm
+beautifulsoup4
+requests
